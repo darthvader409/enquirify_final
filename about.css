@@ -1,0 +1,71 @@
+body {
+    font-family: Lato;
+    background-color: rgb(29, 29, 29);
+    color: white;
+  }
+  
+  .card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    margin: auto;
+    text-align: center;
+    font-family: arial;
+  }
+  
+  p {
+    font-weight: 300;
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  li {
+    margin-right: 2.8rem;
+    font-weight: 100;
+    font-size: small;
+    letter-spacing: 0.1em;
+  }
+  
+  h1 {
+    padding: 15 5;
+    font-weight: 100;
+    font-size: 1.5rem;
+    font-family: "Courier New", Courier, monospace;
+  }
+  
+  h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.7rem;
+  }
+  
+  .title {
+    color: grey;
+    font-size: 18px;
+  }
+  
+  button {
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    width: 100%;
+    font-size: 18px;
+  }
+  
+  a {
+    text-decoration: none;
+    font-size: 22px;
+    padding-left: 7%;
+    padding-right: 7%;
+    color: black;
+  }
+  
+  button:hover,
+  a:hover {
+    opacity: 0.7;
+  }
